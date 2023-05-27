@@ -1,5 +1,0 @@
-Description: Tu es excité(e) par l'idée d'aventure et tu acceptes son invitation. Tu prépares soigneusement ton sac à dos, y mettant tout ce dont tu penses avoir besoin. Finalement, tu te retrouves avec Emily et ses amis dans le dortoir, prêt(e) à partir en cachette pour cette aventure. Alors que tu marches dans la forêt enchantée avec tes amis, tu réalises que l'endroit est plus sombre et effrayant que tu ne l'aurais imaginé. Vous arrivez à une rivière qui traverse votre chemin et vous trouvez un petit pont en bois pour la traverser. Tes amis passent en toute sécurité, mais maintenant c'est ton tour. 
-Event: Tu te retrouves face à face avec le pont, qui semble fragile.  Tu hésites entre passer le pont ou réfléchir à une meilleure façon de traverser la rivière.
-choice:passe le pont:fin1.txt
-choice:trouver une autre manière de traverser:6balais.txt
-
