@@ -1,0 +1,3 @@
+Description: Malheureusement, lors du combat contre Hippolite, tu prends la décision d'utiliser ta propre baguette, ce qui se révèle être un mauvais choix. 
+Event: Ta baguette n'est pas suffisamment puissante pour rivaliser avec celle d'Hippolite, et tu perds le combat. Cette défaite a des conséquences graves sur ton année à Hogwarts, et tu es finalement expulsé(e) de l'école. C'est avec une grande déception que tu quittes Hogwarts, regrettant amèrement ton choix qui a eu de lourdes répercussions sur ton avenir scolaire. The End
+

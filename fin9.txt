@@ -1,0 +1,3 @@
+Description: Bon choix, tu décides de rester dans la chambre.
+Event: Hippolyte est très fâché que tu l'ai humilié devant tout le monde. Il veut te tuer. Il commence à lâcher des sorts. Tu perds 40 xp. Mais tu souviens que ta baguette d'Harry Potter était très très puissante. Tu t'énerves et commence à te défendre. T’arrive enfin à les battre et à t'enfuir de ta chambre. Tu pars direct vers monsieur Choron pour lui annoncer ce qui s’est passé. Hippolyte et ses amis se font virer de l'école. Tu continues tranquillement  l'année sans aucun autre probleme. Effectivement, tu deviens rapidement le meilleur élève a hogwarts. The End
+

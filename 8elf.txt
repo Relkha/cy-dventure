@@ -1,0 +1,5 @@
+Description: Tu as fait le bon choix. Tu bois la potion est ta vie revient à 100%
+Event: Alors que tu continues à explorer la forêt avec tes amis, vous vous retrouvez soudainement face à un elfe particulièrement méchant. Son regard est sinistre, et il vous lance un défi redoutable. Il propose un combat : si vous gagnez, il vous donnera à chacun une cape d'invisibilité, mais si vous perdez, il menace de vous dévorer.
+choice:refuser:fin3.txt
+choice:accepter combat:9combat.txt
+

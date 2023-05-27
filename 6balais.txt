@@ -1,0 +1,4 @@
+Description: tu cherche une autre maniere de traverse tu trouve deux balais
+Event: tu dois faire le choix entre le balais droite ou gauche
+choice:#balais-droite#:7droite.txt
+choice:#balais-gauche#:7gauche.txt

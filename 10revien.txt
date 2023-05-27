@@ -1,0 +1,5 @@
+Description: Alors que tu te fatigues, tu décides de rentrer dans ta chambre pour te reposer. 
+Event: En te préparant à te coucher, tu glisses dans ton lit et sens quelque chose de dur sous ton matelas. Intrigué(e), tu fouilles sous le matelas et trouve une enveloppe portant le nom "Harry Potter". Tu l'ouvres avec curiosité et y découvre sa baguette magique. Tu te demandes qui est Harry Potter et décide de demander à ton professeur, Monsieur Choron. Il t'explique que Harry Potter est un élève talentueux et puissant de Hogwarts, célèbre pour avoir vaincu Voldemort. Tu réalises alors que la baguette que tu as trouvée lui appartient. Tu décides de prendre #baguette-dharry-potter#. En cours de défense contre la force du mal, c’est ton tour d’affronter Hyppolite(le plus fort sorcier dans ta classe) tu a le choix d’utiliser ta propre baguette ou celle d’harry potter
+choice:utilise ta baguette:fin7.txt
+choice:celle d’harry potter:11hippo.txt
+

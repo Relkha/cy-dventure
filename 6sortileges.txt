@@ -1,0 +1,8 @@
+Description: Après avoir choisi de suivre le cours sur les potions avec le professeur Sexton, tu découvres des connaissances approfondies sur la composition des potions. 
+Event: À la fin de la leçon, le professeur Sexton te remet un #livre-de-sortileges#, qui te permettra d’apprendre plein de sortileges. En retournant dans ton dortoir, tu croises Emily qui te dit que tu aurais dû venir avec elle pour obtenir une cape d'invisibilité avec le reste du groupe. Tu lui demandes comment tu pourrais en obtenir une également.  Emily te répond rapidement : "La seule façon serait de se rendre à la librairie de Hogwarts, mais nous ne sommes pas autorisés à y aller.". Vous réfléchissez pour un certain moment et finalement vous décidez de partir. 
+Alors que vous êtes dans la librairie, vous apercevez un professeur qui approche. Vous devez vite choisir ou vous allez vous cacher.
+choice:Sous une chaise:fin5.txt
+choice:Derriere un rideau:fin5.txt
+choice:Dans un placard:7direction.txt
+choice:Derriere une statue:7direction.txt
+

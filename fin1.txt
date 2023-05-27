@@ -1,0 +1,3 @@
+Description: tu décides de marcher sur le pont en bois, malgré tes craintes et ton anxiété. Tu avances lentement, en essayant de ne pas regarder en bas, vers les eaux sombres et agitées en dessous. Tu te concentres sur chaque pas que tu fais, en priant pour ne pas tomber.
+Event: Crac! Tu tombes violemment dans la rivière et tu te noies. End Game
+

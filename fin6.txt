@@ -1,0 +1,3 @@
+Description: Alors que toi et Emily vous fouiller les chambres, tu trouve dans boite cache la cape d'invisibilité que tu cherche
+Event: Cependant, tu n’avais pas fait attention mais tu t’es retrouvé dans la chambre de cerbère(chien à trois têtes). Tu as de la chance il dort. T’essaye de te faufiler dans la chambre sans te réveiller, mais cela ne marche pas, il se réveille et te mord la jambe. Tu parviens quand même à t'enfuir(-80 xp) et partir voir un professeur pour t’aider. Mais c’est trop tard tu meurt a cause de la souffrance. The End
+
