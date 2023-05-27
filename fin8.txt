@@ -1,2 +1,0 @@
-Description: tu cour vers la fenêtre pour t’enfuir
-Event: Mais hippolyte et ces amis te poussent tu tombes du 7ème étage et meurt. The End
