@@ -1,15 +1,15 @@
 all: game
 
-util.o: util.c util.h
+util.o: ppp/2-includes/util.c ppp/2-includes/util.h
 	gcc  -c util.c
 
-backup.o: backup.c backup.h
+backup.o: ppp/2-includes/backup.c ppp/2-includes/backup.h
 	gcc  -c backup.c
 
-step.o: step.c step.h
+step.o: ppp/2-includes/step.c ppp/2-includes/step.h
 	gcc  -c step.c
 
-inventory.o: inventory.c inventory.h
+inventory.o: ppp/2-includes/inventory.c ppp/2-includes/inventory.h
 	gcc  -c inventory.c
 
 game : main.c util.o step.o backup.o inventory.o
