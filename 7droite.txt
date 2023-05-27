@@ -1,5 +1,0 @@
-Description: Tu as choisi le balai de droite. Mais malheureusement celui-ci est un peu vieux.
-Event: Tu as réussi à passer le pont. Mais tout a coup, tu chute et tu casses la cheville. Tes amis se précipitent à ton secours, inquiets de ta blessure. C'est à ce moment-là qu'un étrange sorcier solitaire apparaît de nulle part. Il s'approche de vous avec un sourire énigmatique et t'observe attentivement. Avec compassion, il te propose d'échanger une potion de guérison puissante contre ton balais
-choice:echanger:8elf.txt
-choice:ignorer:fin2.txt
-
