@@ -1,0 +1,3 @@
+Description: Après avoir obtenu les capes d'invisibilité, tu décides de ne pas retourner à Hogwarts avec Emily. Vous continuez à explorer la forêt enchantée et rencontrez un sorcier maîtrisant la magie noire.
+Event: Grâce aux capes, vous parvenez à le vaincre, mais le combat est difficile et vous perdez beaucoup de points de vie. Finalement, vous triomphez. De retour à Hogwarts, vous êtes accueillis comme des héros, salués pour votre bravoure et votre ténacité. Cette expérience renforce vos liens d'amitié et vous êtes prêt à relever de nouveaux défis à l'école des sorciers. The End
+

@@ -1,0 +1,5 @@
+Description : Après une brève concertation, vous acceptez le défi. Le combat commence, et vous vous engagez avec prudence mais détermination. 
+Event:L'elfe se révèle être un adversaire redoutable, usant de sa vitesse et de sa ruse pour tenter de vous déstabiliser.  Vous faites preuve d'une bonne coordination et utilisez vos compétences magiques pour contre-attaquer. Finalement, grâce à votre esprit d'équipe et votre détermination, vous réussissez à vaincre l'elfe maléfique. Essoufflés mais victorieux, vous récupérez les          #capes-dinvisibilité# promises. Cependant, Emily commence à montrer des signes de fatigue et décide de rentrer à Hogwarts. Elle te propose de la rejoindre si tu le souhaites
+choice:rentrer a hogwarts:10revien.txt
+choice:rester dans la foret:fin4.txt
+

@@ -1,0 +1,6 @@
+Description: Bravo tu a trouvé une bonne cachette
+Event: Emily te propose maintenant de fouiller soit les chambres, descendre les escaliers ou les monter
+choice:fouille chambre:fin6.txt
+choice:descend:10revien.txt
+choice:monte:10revien.txt
+
