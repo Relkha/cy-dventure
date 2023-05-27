@@ -1,7 +1,0 @@
-Description:Tu es un nouvel élève à Hogwarts, tu débarques en bateau sur le quai de l'école et montes les escaliers jusqu'au grand hall. Tu es impressionné par la magnificence de la Grande Salle et tu es impatient de commencer ton aventure à Hogwarts. Alors que tu regardes autour de toi, tu vois un homme en robe de sorcier qui s'approche de toi
-Event:Professeur Choron- Bienvenue à Hogwarts jeune sorcié/ère ! Je suis professeur Choron, je serais ton professeur d’alchimie cette année. Je suis ravi de te présenter notre école de magie renommée dans le monde entier. À Hogwarts, tu apprendras à maîtriser les arts de la magie, à te défendre contre les forces du mal et à découvrir les mystères de notre univers magique. Mais tout d’abord laisson le choixpeau magique choisir qu’elle maisons appartient tu  parmi les quatre maisons de l'école - Gryffondor, Poufsouffle, Serdaigle ou Serpentard - chacune ayant ses propres traditions, valeurs et qualités.
-choice:Gryffondor:3gryfondor.txt
-choice:Poufsouffle:3poufsouffle.txt
-choice:Serdaigle:3serdaigle.txt
-choice:Serpentard:3serpentar.txt
-
