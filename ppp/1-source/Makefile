@@ -13,7 +13,7 @@ inventory.o: inventory.c ../2-includes/inventory.h
 	gcc  -c inventory.c
 
 game : main.c util.o step.o backup.o inventory.o
-	gcc  main.c util.o step.o backup.o -o game
+	gcc  main.c util.o step.o backup.o inventory.o -o game
 	
 clean :
 	rm game *.o
