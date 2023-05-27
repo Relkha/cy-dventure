@@ -1,3 +1,0 @@
-Description: Alors que vous continuez à vous balader dans la forêt, vous vous retrouvez face à un loup-garou particulièrement féroce. La créature effrayante commence à vous poursuivre, sauvage et déterminée. La peur vous envahit alors que vous réalisez que vous devez vous échapper le plus rapidement possible.  
-Event: Tu tentes désespérément de t'enfuir en utilisant ton balai, mais avec ta cheville cassée, tu as du mal à courir aussi vite que nécessaire. Le loup-garou se rapproche de plus en plus, sa présence menaçante se fait sentir.  Malheureusement, malgré tes efforts, le loup-garou finit par t'attraper et puis te devorer. The End
-
