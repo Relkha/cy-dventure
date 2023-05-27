@@ -15,6 +15,6 @@ La structure Inventory représente l'inventaire du joueur, qui peut contenir un 
 Une fonction utilitaire est fournie pour supprimer les caractères de nouvelle ligne à la fin d'une chaîne de caractères. Cela peut être particulièrement utile lors de la lecture de l'entrée d'un joueur.
 
 ## Utilisation:
-- ce deplacer dans le fichier ppp puis le sous dossier 1-sources avec **cdd ppp/1-sources/**
-- pour compiler **make**
-- lancer le jeu **./game**
+- ce deplacer dans le fichier ppp puis le sous dossier 1-sources avec 'cdd ppp/1-sources/'
+- pour compiler 'make'
+- lancer le jeu './game'
