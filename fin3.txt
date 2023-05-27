@@ -1,3 +1,0 @@
-Description: Après avoir refusé le combat contre l'elfe maléfique, vous continuez à explorer la forêt enchantée. Cependant, vous tombez face à un sorcier maîtrisant la magie noire. 
-Event: Étant donné que vous n'avez pas encore appris à combattre la magie noire et que vous ne possédez pas la cape d'invisibilité, vous êtes rapidement submergés par la puissance du sorcier. Malheureusement, vous perdez le combat et vous mourrez. The End
-
