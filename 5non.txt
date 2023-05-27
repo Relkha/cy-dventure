@@ -1,6 +1,0 @@
-Description: Après avoir refusé de rejoindre Emily pour explorer la forêt enchantée, tu décides de te coucher tôt. 
-Event: Le lendemain matin, pour ta première journée à Hogwarts, tu as le choix entre trois matières : Défenses contre les forces maléfiques, Potions et Sortilèges.
-choice:Défenses contre les forces maléfiques:6forcedumal.txt
-choice:Potions:6potions.txt
-choice:Sortilèges:6sortileges.txt
-
