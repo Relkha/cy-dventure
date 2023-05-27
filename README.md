@@ -1,8 +1,8 @@
 # cy-dventure
 projet pre-ing
 
-Aperçu
-Ce dépôt contient un moteur de jeu basé sur le langage C pour créer et exécuter des jeux textuels interactifs, ou des histoires de type "choisissez votre propre aventure". Le code est structuré autour de divers éléments du jeu tels que l'histoire, les choix, les événements et l'inventaire.
+Apercu
+ce dépôt contient un moteur de jeu basé sur le langage C pour créer et exécuter des jeux textuels interactifs, ou des histoires de type "choisissez votre propre aventure". Le code est structuré autour de divers éléments du jeu tels que l'histoire, les choix, les événements et l'inventaire.
 
 Composants Clés
 1. Étapes de l'histoire (step.h)
@@ -13,3 +13,6 @@ La structure Inventory représente l'inventaire du joueur, qui peut contenir un 
 
 3. Utilitaires (util.h)
 Une fonction utilitaire est fournie pour supprimer les caractères de nouvelle ligne à la fin d'une chaîne de caractères. Cela peut être particulièrement utile lors de la lecture de l'entrée d'un joueur.
+
+Utilisation:
+ce deplacer d
