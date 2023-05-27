@@ -1,6 +1,0 @@
-Description: Tu es assis sur une chaise, avec le choixpeau magique posé sur ta tête. Tu es stressé et impatient de savoir dans quelle maison tu vas être placé. Tu regardes autour de toi, observant les autres élèves qui attendent également avec impatience d'être répartis. Le choixpeau semble étudier ta personnalité, fouillant dans tes pensées et tes émotions.
-Event: Choixpeau- hmm.. je vois..courageux et ambitieux tu es “gryfondore”!
-Professeur Choron- “Tu  seras encadré par une équipe de professeurs expérimentés et talentueux, qui t’ aideront à développer tes compétences en magie et à te préparer pour ton avenir dans le monde des sorciers. Hogwarts est également une école où l'amitié, l'aventure et la découverte sont au rendez-vous. Tu rencontreras des camarades de classe venant de tous les horizons et vous vous ferez des amis pour la vie. Mais avant tout je vais te demander de choisir ta baguette magique. Tu a le choix entre la baguette au cœur de plume de Phénix (la plus puissante et apprend très vite) ou au crin de Licorne (la plus facile à manier et loyale)
-choice:plume-de-Phénix:4phenix.txt
-choice:crin-de-Licorne:4licorne.txt
-
