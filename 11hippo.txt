@@ -1,5 +1,0 @@
-Description: Très bon choix. Grâce à la baguette d’harry potter t’arrive à le battre très facilement effectivement tu perds que 10 xp. 
-Event: Cependant, en retournant dans ton dortoir tu te retrouves face à Hippolyte et ses amis, qui ont l'intention de te faire du mal, tu te retrouves enfermé(e) dans ta chambre. Tu as le choix entre rester dans ta chambre ou essayer de t'enfuir par la fenêtre.
-choice:rester dans ta chambre:fin9.txt
-choice:enfuir par la fenêtre:fin8.txt
-
