@@ -1,3 +1,0 @@
-Description: Après avoir choisi une mauvaise cachette, vous vous faites rapidement attraper par le professeur. 
-Event: Les conséquences sont graves , vous êtes tous les deux renvoyés de Hogwarts. The End
-
