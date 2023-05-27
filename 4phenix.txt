@@ -1,5 +1,0 @@
-Description: Tu as choisi la baguette magique au coeur de plume de #Phénix#
-Event: Professeur Choron- “Maintenant, si tu veux bien, je vais te demander de prendre tes affaires et de partir dans le dortoir de votre maison. Tu rencontreras d'autres élèves de ta maison qui seront ravis de t’accueillir. Je vous souhaite une excellente année scolaire à Hogwarts, et j'ai hâte de voir tout ce que vous accomplirez ici.”.Tu entres dans ton dortoir et ranges tes affaires. Une jeune fille approche de toi de manière amicale. Emily- “Bonjour, je m'appelle Emily Pouchard. Et toi ?” Vous- "Je m'appelle name.txt" Emily- "C'est génial de te rencontrer ! Moi et deux de mes amis avons prévu de partir en cachette pour visiter la forêt enchantée ce soir. Est-ce que ça te dit de nous rejoindre ?" 
-choice:Oui:5oui.txt
-choice:Non:5non.txt
-
