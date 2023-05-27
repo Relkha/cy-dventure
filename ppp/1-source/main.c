@@ -50,46 +50,65 @@ int main() {
         printf("\n");
     }
 
-
-    printf("\033[31m\033[5mPress Enter to start...\033[0m\n");
-    getchar(); // Wait for user to press Enter
-
+    
+        // Define the initial filename to load the game from
     char *initialStepFilename = "2start.txt";
+    
+    // Create a pointer to store the initial step of the game
     Step *initialStep;
+    
+    // Allocate memory to save game data 
     SaveData *saveData = malloc(sizeof(SaveData));
+    
+    // Allocate memory to save the filename of the step in the game
     saveData->step_filename = malloc(MAX_FILENAME_LENGTH * sizeof(char));
+    
     int result;
 
+    // Check if the player wants to continue the game from where they left off
     if (ask_continue() == 1) {
+        // Try to load the game
         result = load_game(saveData);
-        if (result == -1) {  // Vérification d'une erreur de load_game
-            printf("Erreur lors du chargement de la sauvegarde\n");
-            free(saveData);  // Libération de la mémoire en cas d'erreur
+        
+        // Check if there was an error when loading the game
+        if (result == -1) {
+            printf("Error while loading the game\n");
+            
+            // If there was an error, free the memory allocated for savedata and end the program
+            free(saveData);
             return 1;
         }
+        
+        // If the game loaded correctly, set the initial step to the saved step
         initialStepFilename = saveData->step_filename;
     }
 
+    // Load the initial step
     initialStep = load_step(initialStepFilename, &inventory);
+    
+    // Check if there was an error when loading the initial step
     if (initialStep == NULL) {
-        printf("Erreur lors du chargement de l'étape initiale\n");
-        free(saveData->step_filename);  // Libération de la mémoire pour le step_filename
-        free(saveData);  // Libération de la mémoire pour saveData
+        printf("Error while loading the initial step\n");
+        
+        // If there was an error, free the memory allocated for the step filename and savedata, then end the program
+        free(saveData->step_filename);
+        free(saveData);
         return 1;
     }
     else{
+        // If the initial step loaded correctly, execute the step
         execute_step(initialStep, &inventory);
     }
 
+    // Free the memory allocated for the initial step
     free_step(initialStep);
 
-    // Imprimer l'inventaire à la fin du programme
-    
+    // Print the contents of the inventory at the end of the program
     inventory_print(&inventory);
 
-    // Libération de la mémoire à la fin du programme
-    free(saveData->step_filename);  // Libération de la mémoire pour le step_filename
-    free(saveData);  // Libération de la mémoire pour saveData
+    // Free the memory allocated for the step filename and savedata at the end of the program
+    free(saveData->step_filename);
+    free(saveData);
     return 0;
 }
 
