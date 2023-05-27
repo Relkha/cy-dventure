@@ -1,6 +1,7 @@
 #ifndef STEP_H
 #define STEP_H
 #include "inventory.h"
+
 // The Description structure represents the description of a story step.
 typedef struct Description{ 
 	char *text; //pointer to a string containing the text of the description
