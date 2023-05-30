@@ -14,6 +14,11 @@ La structure Inventory représente l'inventaire du joueur, qui peut contenir un 
 3. Utilitaires (util.h)
 Une fonction utilitaire est fournie pour supprimer les caractères de nouvelle ligne à la fin d'une chaîne de caractères. Cela peut être particulièrement utile lors de la lecture de l'entrée d'un joueur.
 
+## Construit avec:
+
+* [![Clion][Clion.js]][Clion-url]
+* [![React][React.js]][React-url]
+
 ## Utilisation:
 - ce deplacer dans le fichier ppp puis le sous dossier 1-sources avec `cdd ppp/1-sources/`
 - pour compiler `make`
