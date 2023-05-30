@@ -16,8 +16,10 @@ Une fonction utilitaire est fournie pour supprimer les caractères de nouvelle l
 
 ## Construit avec:
 
-* [![Clion][Clion.js]][Clion-url]
-* [![React][React.js]][React-url]
+* Clion
+* Visual Studio
+* Ubuntu
+
 
 ## Utilisation:
 - ce deplacer dans le fichier ppp puis le sous dossier 1-sources avec `cdd ppp/1-sources/`
