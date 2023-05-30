@@ -16,7 +16,7 @@ Une fonction utilitaire est fournie pour supprimer les caractères de nouvelle l
 
 ## Construit avec:
 
-* Clion
+* Clion (IDE)
 * Visual Studio
 * Ubuntu
 
